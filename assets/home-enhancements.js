@@ -9,6 +9,31 @@
     return event.clientX < bounds.left || event.clientX > bounds.right || event.clientY < bounds.top || event.clientY > bounds.bottom;
   };
 
+  const video = document.getElementById('video-dialog');
+  const videoFrame = video.querySelector('.video-frame');
+  let videoTrigger;
+  document.querySelectorAll('[data-video]').forEach(link => link.addEventListener('click', event => {
+    event.preventDefault();
+    videoTrigger = link;
+    const iframe = document.createElement('iframe');
+    iframe.title = 'Видео о компании Приоргласс';
+    iframe.allow = 'autoplay; encrypted-media; picture-in-picture; fullscreen';
+    iframe.allowFullscreen = true;
+    iframe.referrerPolicy = 'strict-origin-when-cross-origin';
+    const id = link.dataset.video;
+    iframe.src = `https://www.youtube-nocookie.com/embed/${encodeURIComponent(id)}?autoplay=1&rel=0&playsinline=1`;
+    videoFrame.replaceChildren(iframe);
+    video.showModal();
+    syncBody();
+  }));
+  video.querySelector('.video-close').addEventListener('click', () => video.close());
+  video.addEventListener('click', event => { if (outsideDialog(video, event)) video.close(); });
+  video.addEventListener('close', () => {
+    videoFrame.replaceChildren();
+    syncBody();
+    videoTrigger?.focus({preventScroll: true});
+  });
+
   const top = document.querySelector('.floating-top');
   const updateTop = () => { top.hidden = window.scrollY < 550; };
   window.addEventListener('scroll', updateTop, {passive: true});
