@@ -35,7 +35,12 @@
   });
 
   const top = document.querySelector('.floating-top');
-  const updateTop = () => { top.hidden = window.scrollY < 550; };
+  const stickyHeader = document.querySelector('.header-v4');
+  const updateTop = () => {
+    const scrollY = window.scrollY;
+    top.hidden = scrollY < 550;
+    stickyHeader.classList.toggle('is-scrolled', scrollY > 32);
+  };
   window.addEventListener('scroll', updateTop, {passive: true});
   updateTop();
   top.addEventListener('click', () => {

@@ -1,6 +1,13 @@
 /* Source layout: main navigation, branding/contact row, then product shortcuts. */
 html{scroll-padding-top:185px}
 .header-v4{background:#fff;border-bottom:0;box-shadow:0 4px 24px #0a59720a}
+.header-v4{--navigation-height:55px;transition:background .22s,box-shadow .22s,backdrop-filter .22s}
+@supports ((backdrop-filter:blur(1px)) or (-webkit-backdrop-filter:blur(1px))){
+ .header-v4.is-scrolled{background:linear-gradient(to bottom,transparent 0 var(--navigation-height),rgba(255,255,255,.92) var(--navigation-height) 100%);-webkit-backdrop-filter:blur(16px) saturate(135%);backdrop-filter:blur(16px) saturate(135%);box-shadow:0 8px 28px #064b6518}
+ .header-v4.is-scrolled .header-navigation{background:linear-gradient(100deg,rgba(7,90,114,.9),rgba(9,133,160,.9))}
+ .header-v4.is-scrolled .nav-dropdown{background:rgba(255,255,255,.96);-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px)}
+}
+@media(max-width:1200px){.header-v4{--navigation-height:0px}}
 .header-navigation{background:linear-gradient(100deg,#075a72,#0985a0);border-bottom:1px solid #7ed8e32e}
 .header-navigation .desktop-nav{display:block;margin:0;width:100%}
 .header-navigation .nav-level-0{display:flex;justify-content:space-between;gap:18px;min-height:55px}
