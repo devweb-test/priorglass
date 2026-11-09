@@ -1,0 +1,8 @@
+.offline-form-note{padding:12px;margin:12px 0;background:#f0fafc;color:#25434b;border:1px solid #2aaac4;line-height:1.5;clear:both}
+.offline-widget-note{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;padding:24px;box-sizing:border-box;background:#edf5f7;color:#315764;text-align:center;font-size:16px;z-index:1}
+.offline-widget-note[hidden]{display:none}
+.offline-map iframe{position:relative;z-index:2}
+.offline-embed{display:flex;align-items:center;justify-content:center;background:#edf5f7;box-sizing:border-box;max-width:100%;min-height:150px}
+
+.offline-widget-note{flex-direction:column;gap:12px}
+.offline-widget-note button{border:1px solid #2aaac4;background:#fff;color:#258b9f;padding:8px 16px;cursor:pointer}

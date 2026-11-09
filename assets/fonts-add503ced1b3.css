@@ -1,0 +1,153 @@
+/*@font-face {
+    font-family: 'Open Sans';
+    src: url('OpenSans-Extrabold-d9e69c51a9bb.eot');
+    src: local('Open Sans Extrabold'), local('OpenSans-Extrabold'),
+        url('OpenSans-Extrabold-d9e69c51a9bb.eot#iefix') format('embedded-opentype'),
+        url('OpenSans-Extrabold-563aba36d0dd.woff2') format('woff2'),
+        url('OpenSans-Extrabold-7f7323db312f.woff') format('woff'),
+        url('OpenSans-Extrabold-6db754bfce7d.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('OpenSans-BoldItalic-46ef51b67b57.eot');
+    src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'),
+        url('OpenSans-BoldItalic-46ef51b67b57.eot#iefix') format('embedded-opentype'),
+        url('OpenSans-BoldItalic-b3f1969f3131.woff2') format('woff2'),
+        url('OpenSans-BoldItalic-706b07abc460.woff') format('woff'),
+        url('OpenSans-BoldItalic-001c75a030ed.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('OpenSans-Bold-1be242db1dd1.eot');
+    src: local('Open Sans Bold'), local('OpenSans-Bold'),
+        url('OpenSans-Bold-1be242db1dd1.eot#iefix') format('embedded-opentype'),
+        url('OpenSans-Bold-73c779cbc6c7.woff2') format('woff2'),
+        url('OpenSans-Bold-1f79f9caddd4.woff') format('woff'),
+        url('OpenSans-Bold-895b743f8db6.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}*/
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('OpenSans-11b5d2f3fde0.eot');
+    src: local('Open Sans'), local('OpenSans'),
+        url('OpenSans-11b5d2f3fde0.eot#iefix') format('embedded-opentype'),
+        url('OpenSans-29335f0686e2.woff2') format('woff2'),
+        url('OpenSans-9b7d3c7374f3.woff') format('woff'),
+        url('OpenSans-345b7667bdb9.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+/*@font-face {
+    font-family: 'Open Sans';
+    src: url('OpenSans-Italic-ec9200ec0c67.eot');
+    src: local('Open Sans Italic'), local('OpenSans-Italic'),
+        url('OpenSans-Italic-ec9200ec0c67.eot#iefix') format('embedded-opentype'),
+        url('OpenSans-Italic-55630179d9fe.woff2') format('woff2'),
+        url('OpenSans-Italic-051f1839e680.woff') format('woff'),
+        url('OpenSans-Italic-3c52faad0c4f.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('OpenSans-Light-e8d07d763d97.eot');
+    src: local('Open Sans Light'), local('OpenSans-Light'),
+        url('OpenSans-Light-e8d07d763d97.eot#iefix') format('embedded-opentype'),
+        url('OpenSans-Light-71413c6c2783.woff2') format('woff2'),
+        url('OpenSans-Light-d864fe08d6a2.woff') format('woff'),
+        url('OpenSans-Light-4714b1e0abd5.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}*/
+
+@font-face {
+    font-family: 'Geometria';
+    src: url('Geometria-a22b2cabeb94.eot');
+    src: local('Geometria'),
+        url('Geometria-a22b2cabeb94.eot#iefix') format('embedded-opentype'),
+        url('Geometria-481f6852b9f3.woff') format('woff'),
+        url('Geometria-1f04935fb925.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geometria';
+    src: url('Geometria-Bold-a3486d40563f.eot');
+    src: local('Geometria Bold'), local('Geometria-Bold'),
+        url('Geometria-Bold-a3486d40563f.eot#iefix') format('embedded-opentype'),
+        url('Geometria-Bold-1b49be9fc980.woff') format('woff'),
+        url('Geometria-Bold-c8cb7f54fccf.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face { 
+    font-family: "MyriadPro";
+    src: url("MyriadProRegular-bf1050713c7e.eot");
+    src: url("MyriadProRegular-bf1050713c7e.eot#iefix")format("embedded-opentype"),
+    url("MyriadProRegular-43137aa94b92.woff") format("woff"),
+    url("MyriadProRegular-77e1510c2fde.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face { 
+    font-family: "MyriadPro";
+    src: url("MyriadProSemiBold-a2eb4387937c.eot");
+    src: url("MyriadProSemiBold-a2eb4387937c.eot#iefix")format("embedded-opentype"),
+    url("MyriadProSemiBold-544138c4f62e.woff") format("woff"),
+    url("MyriadProSemiBold-80ca1e2dbbe5.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 600;
+}
+
+@font-face { 
+    font-family: "MyriadPro";
+    src: url("MyriadProBold-36963c94b163.eot");
+    src: url("MyriadProBold-36963c94b163.eot#iefix")format("embedded-opentype"),
+    url("MyriadProBold-054616f943c3.woff") format("woff"),
+    url("MyriadProBold-b682343288cf.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face { 
+    font-family: "MyriadPro";
+    src: url("MyriadProItalic-63c96b02d0e0.eot");
+    src: url("MyriadProItalic-63c96b02d0e0.eot#iefix")format("embedded-opentype"),
+    url("MyriadProItalic-bb864a147789.woff") format("woff"),
+    url("MyriadProItalic-80493680da32.ttf") format("truetype");
+    font-style: italic;
+    font-weight: normal;
+}
+
+@font-face { 
+    font-family: "MyriadPro";
+    src: url("MyriadProBoldItalic-967e30ca9462.eot");
+    src: url("MyriadProBoldItalic-967e30ca9462.eot#iefix")format("embedded-opentype"),
+    url("MyriadProBoldItalic-dd9b47a785ee.woff") format("woff"),
+    url("MyriadProBoldItalic-d9c3223143f4.ttf") format("truetype");
+    font-style: italic;
+    font-weight: 700;
+}
+
+@font-face { 
+    font-family: "MyriadPro";
+    src: url("MyriadProSemiBoldItalic-c60886aa991c.eot");
+    src: url("MyriadProSemiBoldItalic-c60886aa991c.eot#iefix")format("embedded-opentype"),
+    url("MyriadProSemiBoldItalic-b5b5d7ff04b6.woff") format("woff"),
+    url("MyriadProSemiBoldItalic-75d24bece292.ttf") format("truetype");
+    font-style: italic;
+    font-weight: normal;
+}
