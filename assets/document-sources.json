@@ -1,0 +1,216 @@
+{
+  "reviewsPage": "https://priorglass.ru/o-nas/otzyvy-o-kompanii/",
+  "certificatesPage": "https://priorglass.ru/zakalennoe-steklo/",
+  "documents": [
+    {
+      "kind": "review",
+      "url": "https://priorglass.ru/wp-content/uploads/2021/11/MS_ofispro.jpg",
+      "stem": "review-letter-01",
+      "title": "Благодарственное письмо",
+      "image": "assets/review-letter-01.jpg",
+      "thumbnail": "assets/review-letter-01-thumb.webp",
+      "width": 700,
+      "height": 1000
+    },
+    {
+      "kind": "review",
+      "url": "https://priorglass.ru/wp-content/uploads/2021/11/Pismo_v_PRIORGLASS_net.jpg",
+      "stem": "review-letter-02",
+      "title": "Благодарственное письмо",
+      "image": "assets/review-letter-02.jpg",
+      "thumbnail": "assets/review-letter-02-thumb.webp",
+      "width": 700,
+      "height": 1000
+    },
+    {
+      "kind": "review",
+      "url": "https://priorglass.ru/wp-content/uploads/2021/11/Sovremennye_tekhnologii_net.jpg",
+      "stem": "review-letter-03",
+      "title": "Благодарственное письмо",
+      "image": "assets/review-letter-03.jpg",
+      "thumbnail": "assets/review-letter-03-thumb.webp",
+      "width": 700,
+      "height": 1000
+    },
+    {
+      "kind": "review",
+      "url": "https://priorglass.ru/wp-content/uploads/2021/11/ZAO_ZAO_net.jpg",
+      "stem": "review-letter-04",
+      "title": "Благодарственное письмо",
+      "image": "assets/review-letter-04.jpg",
+      "thumbnail": "assets/review-letter-04-thumb.webp",
+      "width": 700,
+      "height": 1000
+    },
+    {
+      "kind": "review",
+      "url": "https://priorglass.ru/wp-content/uploads/2021/03/angara_st.jpg",
+      "stem": "review-letter-05",
+      "title": "Благодарственное письмо",
+      "image": "assets/review-letter-05.jpg",
+      "thumbnail": "assets/review-letter-05-thumb.webp",
+      "width": 700,
+      "height": 1000
+    },
+    {
+      "kind": "review",
+      "url": "https://priorglass.ru/wp-content/uploads/2021/03/kifato_mk.jpg",
+      "stem": "review-letter-06",
+      "title": "Благодарственное письмо",
+      "image": "assets/review-letter-06.jpg",
+      "thumbnail": "assets/review-letter-06-thumb.webp",
+      "width": 700,
+      "height": 1000
+    },
+    {
+      "kind": "review",
+      "url": "https://priorglass.ru/wp-content/uploads/2021/03/mediavyveska.jpg",
+      "stem": "review-letter-07",
+      "title": "Благодарственное письмо",
+      "image": "assets/review-letter-07.jpg",
+      "thumbnail": "assets/review-letter-07-thumb.webp",
+      "width": 700,
+      "height": 1000
+    },
+    {
+      "kind": "review",
+      "url": "https://priorglass.ru/wp-content/uploads/2021/03/minsroy.jpg",
+      "stem": "review-letter-08",
+      "title": "Благодарственное письмо",
+      "image": "assets/review-letter-08.jpg",
+      "thumbnail": "assets/review-letter-08-thumb.webp",
+      "width": 700,
+      "height": 1000
+    },
+    {
+      "kind": "review",
+      "url": "https://priorglass.ru/wp-content/uploads/2021/03/online_trade.jpg",
+      "stem": "review-letter-09",
+      "title": "Благодарственное письмо",
+      "image": "assets/review-letter-09.jpg",
+      "thumbnail": "assets/review-letter-09-thumb.webp",
+      "width": 700,
+      "height": 1000
+    },
+    {
+      "kind": "review",
+      "url": "https://priorglass.ru/wp-content/uploads/2021/03/petromarket.jpg",
+      "stem": "review-letter-10",
+      "title": "Благодарственное письмо",
+      "image": "assets/review-letter-10.jpg",
+      "thumbnail": "assets/review-letter-10-thumb.webp",
+      "width": 700,
+      "height": 1000
+    },
+    {
+      "kind": "review",
+      "url": "https://priorglass.ru/wp-content/uploads/2021/03/proffsad.jpg",
+      "stem": "review-letter-11",
+      "title": "Благодарственное письмо",
+      "image": "assets/review-letter-11.jpg",
+      "thumbnail": "assets/review-letter-11-thumb.webp",
+      "width": 700,
+      "height": 1000
+    },
+    {
+      "kind": "review",
+      "url": "https://priorglass.ru/wp-content/uploads/2021/03/reutov.jpg",
+      "stem": "review-letter-12",
+      "title": "Благодарственное письмо",
+      "image": "assets/review-letter-12.jpg",
+      "thumbnail": "assets/review-letter-12-thumb.webp",
+      "width": 700,
+      "height": 1000
+    },
+    {
+      "kind": "review",
+      "url": "https://priorglass.ru/wp-content/uploads/2021/03/sky-engineering.jpg",
+      "stem": "review-letter-13",
+      "title": "Благодарственное письмо",
+      "image": "assets/review-letter-13.jpg",
+      "thumbnail": "assets/review-letter-13-thumb.webp",
+      "width": 700,
+      "height": 1000
+    },
+    {
+      "kind": "review",
+      "url": "https://priorglass.ru/wp-content/uploads/2021/03/stokmann.jpg",
+      "stem": "review-letter-14",
+      "title": "Благодарственное письмо",
+      "image": "assets/review-letter-14.jpg",
+      "thumbnail": "assets/review-letter-14-thumb.webp",
+      "width": 700,
+      "height": 1000
+    },
+    {
+      "kind": "review",
+      "url": "https://priorglass.ru/wp-content/uploads/2021/03/sultanov.jpg",
+      "stem": "review-letter-15",
+      "title": "Благодарственное письмо",
+      "image": "assets/review-letter-15.jpg",
+      "thumbnail": "assets/review-letter-15-thumb.webp",
+      "width": 700,
+      "height": 1000
+    },
+    {
+      "kind": "review",
+      "url": "https://priorglass.ru/wp-content/uploads/2021/03/terra_dok.jpg",
+      "stem": "review-letter-16",
+      "title": "Благодарственное письмо",
+      "image": "assets/review-letter-16.jpg",
+      "thumbnail": "assets/review-letter-16-thumb.webp",
+      "width": 700,
+      "height": 1000
+    },
+    {
+      "kind": "certificate",
+      "url": "https://priorglass.ru/wp-content/themes/priorglass/img/sertifikat-zakalennoe-steklo.jpg",
+      "stem": "certificate-01",
+      "title": "Закалённое стекло",
+      "image": "assets/certificate-01.jpg",
+      "thumbnail": "assets/certificate-01-thumb.webp",
+      "width": 1653,
+      "height": 2309
+    },
+    {
+      "kind": "certificate",
+      "url": "https://priorglass.ru/wp-content/themes/priorglass/img/sertifikat-stemalit.jpg",
+      "stem": "certificate-02",
+      "title": "Стемалит",
+      "image": "assets/certificate-02.jpg",
+      "thumbnail": "assets/certificate-02-thumb.webp",
+      "width": 1653,
+      "height": 2303
+    },
+    {
+      "kind": "certificate",
+      "url": "https://priorglass.ru/wp-content/themes/priorglass/img/sertifikat-steklopakety.jpg",
+      "stem": "certificate-03",
+      "title": "Стеклопакеты",
+      "image": "assets/certificate-03.jpg",
+      "thumbnail": "assets/certificate-03-thumb.webp",
+      "width": 1653,
+      "height": 2330
+    },
+    {
+      "kind": "certificate",
+      "url": "https://priorglass.ru/wp-content/themes/priorglass/img/sertifikat-tripleks.jpg",
+      "stem": "certificate-04",
+      "title": "Триплекс",
+      "image": "assets/certificate-04.jpg",
+      "thumbnail": "assets/certificate-04-thumb.webp",
+      "width": 1653,
+      "height": 2324
+    },
+    {
+      "kind": "certificate",
+      "url": "https://priorglass.ru/wp-content/themes/priorglass/img/deklaraciya-steklopakety-v2.jpg",
+      "stem": "certificate-05",
+      "title": "Декларация о соответствии — стеклопакеты",
+      "image": "assets/certificate-05.jpg",
+      "thumbnail": "assets/certificate-05-thumb.webp",
+      "width": 1653,
+      "height": 2330
+    }
+  ]
+}
