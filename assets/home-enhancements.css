@@ -48,6 +48,32 @@
 .document-download{display:inline-block;font-size:13px;color:var(--teal);margin-top:9px;padding-block:3px}
 .document-bottom{display:flex;align-items:center;justify-content:space-between;gap:25px;margin-top:20px}
 .document-position{font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums}
+/* Completed partition projects, using only photographs from the portfolio. */
+.partition-slider{min-width:0}
+.partition-track{display:flex;min-width:0;height:470px;overflow-x:auto;overflow-y:hidden;scroll-snap-type:x mandatory;scrollbar-width:none;overscroll-behavior-x:contain;border-radius:25px;background:#154e60}
+.partition-track::-webkit-scrollbar{display:none}
+.partition-slide{flex:0 0 100%;min-width:0;height:100%;margin:0;scroll-snap-align:start;scroll-snap-stop:always}
+.partition-project{position:relative;isolation:isolate;display:block;width:100%;height:100%;overflow:hidden;background:#154e60;color:#fff}
+.partition-image{display:block;width:100%;height:100%;object-fit:cover;transition:transform .45s}
+.partition-project:hover .partition-image{transform:scale(1.025)}
+.partition-backdrop{position:absolute;inset:-5%;z-index:-1;width:110%;height:110%;max-width:none;object-fit:cover;filter:blur(18px) brightness(.65)}
+.partition-slide-portrait .partition-image{object-fit:contain}
+.partition-caption{position:absolute;inset:auto 0 0;display:flex;align-items:flex-start;flex-direction:column;padding:48px 28px 25px;background:linear-gradient(transparent,#072f40ed);color:#fff;pointer-events:none}
+.partition-caption>span:first-child{font-size:11px;line-height:1.6;color:#c9eaf0;letter-spacing:.2px}
+.partition-caption>strong{font-size:22px;line-height:1.35;letter-spacing:-.6px;margin-top:6px;max-width:560px}
+.partition-project-link{font-size:12px;font-weight:600;color:#c3eea3;margin-top:10px}
+.partition-project:hover .partition-project-link{color:#fff}
+.partition-toolbar{display:flex;align-items:center;justify-content:space-between;gap:20px;padding-top:16px}
+.partition-status{display:flex;align-items:center;gap:17px;color:var(--muted);font-size:12px}
+.partition-position{font-weight:700;font-variant-numeric:tabular-nums;color:var(--teal);white-space:nowrap}
+.partition-controls{display:flex;gap:9px}
+.partition-controls>button{display:grid;place-items:center;width:44px;height:44px;padding:0;border:1px solid #c9e5ed;border-radius:50%;background:#eefaff;color:var(--teal);transition:background .2s,transform .2s}
+.partition-controls>button:first-child .icon{transform:rotate(180deg)}
+.partition-controls>button:hover:not(:disabled){background:#d7f1f8;transform:translateY(-2px)}
+.partition-track:focus-visible{outline-offset:5px}
+@media(max-width:1200px){.partition-track{height:420px}.partition-caption{padding:40px 24px 23px}.partition-caption>strong{font-size:20px}}
+@media(max-width:760px){.partition-slider{grid-row:1}.partition-track{height:330px;border-radius:20px}.partition-caption{padding:38px 22px 22px}.partition-caption>strong{font-size:21px}.partition-toolbar{padding-top:14px}.partition-status{font-size:12px;gap:15px}.partition-controls>button{width:42px;height:42px}}
+@media(max-width:460px){.partition-track{height:290px}.partition-caption{padding:35px 18px 18px}.partition-caption>strong{font-size:19px}.partition-caption>span:first-child{font-size:10px}.partition-project-link{font-size:11px;margin-top:8px}.partition-toolbar{gap:12px}.partition-status{font-size:11px;gap:12px}.partition-controls{gap:7px}.partition-controls>button{width:39px;height:39px}.partition-controls .icon{width:20px;height:20px}}
 /* Equipment photographs from the production and tempered-glass pages. */
 .equipment-section{background:#fff}
 .equipment-section .section-head{align-items:flex-end}
