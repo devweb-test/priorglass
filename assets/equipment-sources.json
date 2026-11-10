@@ -1,56 +1,80 @@
 [
   {
-    "file": "equipment-keraglass.webp",
+    "file": "equipment-keraglass-hd.webp",
     "title": "Печь закалки KERAGLASS",
     "source_page": "https://priorglass.ru/zakalennoe-steklo/",
     "source_image": "https://priorglass.ru/wp-content/themes/priorglass/tempered-glass/assets/equipment-keraglass.png",
-    "width": 700,
-    "height": 525,
-    "bytes": 78696
+    "width": 1586,
+    "height": 992,
+    "bytes": 331836,
+    "original_file": "equipment-keraglass.webp",
+    "kind": "AI-enhanced source illustration",
+    "tool": "image_gen.imagegen (built-in)",
+    "prompt": "Edit the provided equipment image into a high-resolution professional industrial equipment photograph for a website card. Preserve the exact machine identity, major geometry, parts, roller/table arrangement, original colors and recognizable construction from the source; do not invent a different model or technical features. Improve fine edge definition, material textures, realistic detail, exposure and even neutral daylight. Use a coherent tidy real factory hall environment, subtle and secondary to the equipment. Remove JPEG artifacts and muddy blur. Landscape composition approximately 16:10, equipment fills most of the frame but has about 8 percent breathing room at left and right so a responsive cover crop won't cut its key parts. Full-bleed photograph with no white canvas, no borders, no collage. No people, captions, watermark or new logos. Keep existing machine lettering understated; no fabricated text. This is an enhanced illustrative rendering based on an existing equipment photograph.\nSubject: the same white and burgundy glass tempering furnace with diagonal black-striped face, overhead exhaust duct and roller conveyor shown in the reference. Keep the furnace design and visible conveyor geometry."
   },
   {
-    "file": "equipment-cutting.webp",
+    "file": "equipment-cutting-hd.webp",
     "title": "Автоматические столы резки",
     "source_page": "https://priorglass.ru/zakalennoe-steklo/",
     "source_image": "https://priorglass.ru/wp-content/themes/priorglass/tempered-glass/assets/equipment-bavelloni.jpg",
-    "width": 700,
-    "height": 525,
-    "bytes": 94232
+    "width": 1586,
+    "height": 992,
+    "bytes": 401932,
+    "original_file": "equipment-cutting.webp",
+    "kind": "AI-enhanced source illustration",
+    "tool": "image_gen.imagegen (built-in)",
+    "prompt": "Edit the provided equipment image into a high-resolution professional industrial equipment photograph for a website card. Preserve the exact machine identity, major geometry, parts, roller/table arrangement, original colors and recognizable construction from the source; do not invent a different model or technical features. Improve fine edge definition, material textures, realistic detail, exposure and even neutral daylight. Use a coherent tidy real factory hall environment, subtle and secondary to the equipment. Remove JPEG artifacts and muddy blur. Landscape composition approximately 16:10, equipment fills most of the frame but has about 8 percent breathing room at left and right so a responsive cover crop won't cut its key parts. Full-bleed photograph with no white canvas, no borders, no collage. No people, captions, watermark or new logos. Keep existing machine lettering understated; no fabricated text. This is an enhanced illustrative rendering based on an existing equipment photograph.\nSubject: the same large flat automatic glass cutting table with dark green base, gray felt bed and safety enclosure shown in the reference. Retain the workshop view and table structure."
   },
   {
-    "file": "equipment-intermac.webp",
+    "file": "equipment-intermac-hd.webp",
     "title": "Обрабатывающий центр INTERMAC",
     "source_page": "https://priorglass.ru/zakalennoe-steklo/",
     "source_image": "https://priorglass.ru/wp-content/themes/priorglass/tempered-glass/assets/equipment-intermac.jpg",
-    "width": 700,
-    "height": 363,
-    "bytes": 19664
+    "width": 1586,
+    "height": 992,
+    "bytes": 209476,
+    "original_file": "equipment-intermac.webp",
+    "kind": "AI-enhanced source illustration",
+    "tool": "image_gen.imagegen (built-in)",
+    "prompt": "Edit the provided equipment image into a high-resolution professional industrial equipment photograph for a website card. Preserve the exact machine identity, major geometry, parts, roller/table arrangement, original colors and recognizable construction from the source; do not invent a different model or technical features. Improve fine edge definition, material textures, realistic detail, exposure and even neutral daylight. Use a coherent tidy real factory hall environment, subtle and secondary to the equipment. Remove JPEG artifacts and muddy blur. Landscape composition approximately 16:10, equipment fills most of the frame but has about 8 percent breathing room at left and right so a responsive cover crop won't cut its key parts. Full-bleed photograph with no white canvas, no borders, no collage. No people, captions, watermark or new logos. Keep existing machine lettering understated; no fabricated text. This is an enhanced illustrative rendering based on an existing equipment photograph.\nSubject: the same INTERMAC Master glass CNC machining center with white enclosure, red spindle head, glass safety panels, vacuum supports and separate control console. Place this exact machine on a clean concrete factory floor in a bright hall. Preserve machinery proportions."
   },
   {
-    "file": "equipment-glazing-line.webp",
+    "file": "equipment-glazing-line-hd.webp",
     "title": "Линия сборки стеклопакетов",
     "source_page": "https://priorglass.ru/o-nas/proizvodstvo/",
     "source_image": "https://priorglass.ru/wp-content/uploads/2026/03/steklopaketnaya-liniya-1.png",
-    "width": 700,
-    "height": 467,
-    "bytes": 43192
+    "width": 1586,
+    "height": 992,
+    "bytes": 234378,
+    "original_file": "equipment-glazing-line.webp",
+    "kind": "AI-enhanced source illustration",
+    "tool": "image_gen.imagegen (built-in)",
+    "prompt": "Edit the provided equipment image into a high-resolution professional industrial equipment photograph for a website card. Preserve the exact machine identity, major geometry, parts, roller/table arrangement, original colors and recognizable construction from the source; do not invent a different model or technical features. Improve fine edge definition, material textures, realistic detail, exposure and even neutral daylight. Use a coherent tidy real factory hall environment, subtle and secondary to the equipment. Remove JPEG artifacts and muddy blur. Landscape composition approximately 16:10, equipment fills most of the frame but has about 8 percent breathing room at left and right so a responsive cover crop won't cut its key parts. Full-bleed photograph with no white canvas, no borders, no collage. No people, captions, watermark or new logos. Keep existing machine lettering understated; no fabricated text. This is an enhanced illustrative rendering based on an existing equipment photograph.\nSubject: the same long vertical insulated-glass assembly line with white perforated panels, blue lower supports and rows of small yellow rollers. Preserve its factory setting and recognizable arrangement."
   },
   {
-    "file": "equipment-edging.webp",
+    "file": "equipment-edging-hd.webp",
     "title": "Станок обработки кромки",
     "source_page": "https://priorglass.ru/o-nas/proizvodstvo/",
     "source_image": "https://priorglass.ru/wp-content/uploads/Kromochnik-Bavelloni-e1454254063163.jpg",
-    "width": 700,
-    "height": 342,
-    "bytes": 23962
+    "width": 1586,
+    "height": 992,
+    "bytes": 224870,
+    "original_file": "equipment-edging.webp",
+    "kind": "AI-enhanced source illustration",
+    "tool": "image_gen.imagegen (built-in)",
+    "prompt": "Edit the provided equipment image into a high-resolution professional industrial equipment photograph for a website card. Preserve the exact machine identity, major geometry, parts, roller/table arrangement, original colors and recognizable construction from the source; do not invent a different model or technical features. Improve fine edge definition, material textures, realistic detail, exposure and even neutral daylight. Use a coherent tidy real factory hall environment, subtle and secondary to the equipment. Remove JPEG artifacts and muddy blur. Landscape composition approximately 16:10, equipment fills most of the frame but has about 8 percent breathing room at left and right so a responsive cover crop won't cut its key parts. Full-bleed photograph with no white canvas, no borders, no collage. No people, captions, watermark or new logos. Keep existing machine lettering understated; no fabricated text. This is an enhanced illustrative rendering based on an existing equipment photograph.\nSubject: the same straight-line glass edging and polishing machine, gray-green rounded housing with visible polishing wheels underneath and long tall white glass support rack. Place the exact machine on a factory floor. Include the full horizontal rack with breathing room, while keeping the active machine legible."
   },
   {
-    "file": "equipment-triplex.webp",
+    "file": "equipment-triplex-hd.webp",
     "title": "Печь для триплекса",
     "source_page": "https://priorglass.ru/o-nas/proizvodstvo/",
     "source_image": "https://priorglass.ru/wp-content/uploads/2026/03/pech-tripleksacii-novaya.png",
-    "width": 700,
-    "height": 306,
-    "bytes": 32758
+    "width": 1586,
+    "height": 992,
+    "bytes": 201282,
+    "original_file": "equipment-triplex.webp",
+    "kind": "AI-enhanced source illustration",
+    "tool": "image_gen.imagegen (built-in)",
+    "prompt": "Edit the provided equipment image into a high-resolution professional industrial equipment photograph for a website card. Preserve the exact machine identity, major geometry, parts, roller/table arrangement, original colors and recognizable construction from the source; do not invent a different model or technical features. Improve fine edge definition, material textures, realistic detail, exposure and even neutral daylight. Use a coherent tidy real factory hall environment, subtle and secondary to the equipment. Remove JPEG artifacts and muddy blur. Landscape composition approximately 16:10, equipment fills most of the frame but has about 8 percent breathing room at left and right so a responsive cover crop won't cut its key parts. Full-bleed photograph with no white canvas, no borders, no collage. No people, captions, watermark or new logos. Keep existing machine lettering understated; no fabricated text. This is an enhanced illustrative rendering based on an existing equipment photograph.\nSubject: the same burgundy red glass lamination oven with open front and sliding loading tray extending toward camera, black-yellow hazard stripes and separate cream control pedestal. Preserve the oven, tray and control pedestal proportions and positions."
   }
 ]
