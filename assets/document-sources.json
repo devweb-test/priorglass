@@ -8,9 +8,16 @@
       "stem": "review-letter-01",
       "title": "Благодарственное письмо",
       "image": "assets/review-letter-01.jpg",
-      "thumbnail": "assets/review-letter-01-thumb.webp",
+      "thumbnail": "assets/review-letter-01-clean.svg",
       "width": 700,
-      "height": 1000
+      "height": 1000,
+      "trimEdges": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "displayImage": "assets/review-letter-01-clean.svg"
     },
     {
       "kind": "review",
@@ -18,9 +25,16 @@
       "stem": "review-letter-02",
       "title": "Благодарственное письмо",
       "image": "assets/review-letter-02.jpg",
-      "thumbnail": "assets/review-letter-02-thumb.webp",
+      "thumbnail": "assets/review-letter-02-clean.svg",
       "width": 700,
-      "height": 1000
+      "height": 1000,
+      "trimEdges": [
+        3,
+        10,
+        3,
+        3
+      ],
+      "displayImage": "assets/review-letter-02-clean.svg"
     },
     {
       "kind": "review",
@@ -28,9 +42,16 @@
       "stem": "review-letter-03",
       "title": "Благодарственное письмо",
       "image": "assets/review-letter-03.jpg",
-      "thumbnail": "assets/review-letter-03-thumb.webp",
+      "thumbnail": "assets/review-letter-03-clean.svg",
       "width": 700,
-      "height": 1000
+      "height": 1000,
+      "trimEdges": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "displayImage": "assets/review-letter-03-clean.svg"
     },
     {
       "kind": "review",
@@ -38,9 +59,16 @@
       "stem": "review-letter-04",
       "title": "Благодарственное письмо",
       "image": "assets/review-letter-04.jpg",
-      "thumbnail": "assets/review-letter-04-thumb.webp",
+      "thumbnail": "assets/review-letter-04-clean.svg",
       "width": 700,
-      "height": 1000
+      "height": 1000,
+      "trimEdges": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "displayImage": "assets/review-letter-04-clean.svg"
     },
     {
       "kind": "review",
@@ -48,9 +76,16 @@
       "stem": "review-letter-05",
       "title": "Благодарственное письмо",
       "image": "assets/review-letter-05.jpg",
-      "thumbnail": "assets/review-letter-05-thumb.webp",
+      "thumbnail": "assets/review-letter-05-clean.svg",
       "width": 700,
-      "height": 1000
+      "height": 1000,
+      "trimEdges": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "displayImage": "assets/review-letter-05-clean.svg"
     },
     {
       "kind": "review",
@@ -58,9 +93,16 @@
       "stem": "review-letter-06",
       "title": "Благодарственное письмо",
       "image": "assets/review-letter-06.jpg",
-      "thumbnail": "assets/review-letter-06-thumb.webp",
+      "thumbnail": "assets/review-letter-06-clean.svg",
       "width": 700,
-      "height": 1000
+      "height": 1000,
+      "trimEdges": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "displayImage": "assets/review-letter-06-clean.svg"
     },
     {
       "kind": "review",
@@ -68,9 +110,16 @@
       "stem": "review-letter-07",
       "title": "Благодарственное письмо",
       "image": "assets/review-letter-07.jpg",
-      "thumbnail": "assets/review-letter-07-thumb.webp",
+      "thumbnail": "assets/review-letter-07-clean.svg",
       "width": 700,
-      "height": 1000
+      "height": 1000,
+      "trimEdges": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "displayImage": "assets/review-letter-07-clean.svg"
     },
     {
       "kind": "review",
@@ -78,9 +127,16 @@
       "stem": "review-letter-08",
       "title": "Благодарственное письмо",
       "image": "assets/review-letter-08.jpg",
-      "thumbnail": "assets/review-letter-08-thumb.webp",
+      "thumbnail": "assets/review-letter-08-clean.svg",
       "width": 700,
-      "height": 1000
+      "height": 1000,
+      "trimEdges": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "displayImage": "assets/review-letter-08-clean.svg"
     },
     {
       "kind": "review",
@@ -88,9 +144,16 @@
       "stem": "review-letter-09",
       "title": "Благодарственное письмо",
       "image": "assets/review-letter-09.jpg",
-      "thumbnail": "assets/review-letter-09-thumb.webp",
+      "thumbnail": "assets/review-letter-09-clean.svg",
       "width": 700,
-      "height": 1000
+      "height": 1000,
+      "trimEdges": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "displayImage": "assets/review-letter-09-clean.svg"
     },
     {
       "kind": "review",
@@ -98,9 +161,16 @@
       "stem": "review-letter-10",
       "title": "Благодарственное письмо",
       "image": "assets/review-letter-10.jpg",
-      "thumbnail": "assets/review-letter-10-thumb.webp",
+      "thumbnail": "assets/review-letter-10-clean.svg",
       "width": 700,
-      "height": 1000
+      "height": 1000,
+      "trimEdges": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "displayImage": "assets/review-letter-10-clean.svg"
     },
     {
       "kind": "review",
@@ -108,9 +178,16 @@
       "stem": "review-letter-11",
       "title": "Благодарственное письмо",
       "image": "assets/review-letter-11.jpg",
-      "thumbnail": "assets/review-letter-11-thumb.webp",
+      "thumbnail": "assets/review-letter-11-clean.svg",
       "width": 700,
-      "height": 1000
+      "height": 1000,
+      "trimEdges": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "displayImage": "assets/review-letter-11-clean.svg"
     },
     {
       "kind": "review",
@@ -118,9 +195,16 @@
       "stem": "review-letter-12",
       "title": "Благодарственное письмо",
       "image": "assets/review-letter-12.jpg",
-      "thumbnail": "assets/review-letter-12-thumb.webp",
+      "thumbnail": "assets/review-letter-12-clean.svg",
       "width": 700,
-      "height": 1000
+      "height": 1000,
+      "trimEdges": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "displayImage": "assets/review-letter-12-clean.svg"
     },
     {
       "kind": "review",
@@ -128,9 +212,16 @@
       "stem": "review-letter-13",
       "title": "Благодарственное письмо",
       "image": "assets/review-letter-13.jpg",
-      "thumbnail": "assets/review-letter-13-thumb.webp",
+      "thumbnail": "assets/review-letter-13-clean.svg",
       "width": 700,
-      "height": 1000
+      "height": 1000,
+      "trimEdges": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "displayImage": "assets/review-letter-13-clean.svg"
     },
     {
       "kind": "review",
@@ -138,9 +229,16 @@
       "stem": "review-letter-14",
       "title": "Благодарственное письмо",
       "image": "assets/review-letter-14.jpg",
-      "thumbnail": "assets/review-letter-14-thumb.webp",
+      "thumbnail": "assets/review-letter-14-clean.svg",
       "width": 700,
-      "height": 1000
+      "height": 1000,
+      "trimEdges": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "displayImage": "assets/review-letter-14-clean.svg"
     },
     {
       "kind": "review",
@@ -148,9 +246,16 @@
       "stem": "review-letter-15",
       "title": "Благодарственное письмо",
       "image": "assets/review-letter-15.jpg",
-      "thumbnail": "assets/review-letter-15-thumb.webp",
+      "thumbnail": "assets/review-letter-15-clean.svg",
       "width": 700,
-      "height": 1000
+      "height": 1000,
+      "trimEdges": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "displayImage": "assets/review-letter-15-clean.svg"
     },
     {
       "kind": "review",
@@ -158,9 +263,16 @@
       "stem": "review-letter-16",
       "title": "Благодарственное письмо",
       "image": "assets/review-letter-16.jpg",
-      "thumbnail": "assets/review-letter-16-thumb.webp",
+      "thumbnail": "assets/review-letter-16-clean.svg",
       "width": 700,
-      "height": 1000
+      "height": 1000,
+      "trimEdges": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "displayImage": "assets/review-letter-16-clean.svg"
     },
     {
       "kind": "certificate",
@@ -168,9 +280,16 @@
       "stem": "certificate-01",
       "title": "Закалённое стекло",
       "image": "assets/certificate-01.jpg",
-      "thumbnail": "assets/certificate-01-thumb.webp",
+      "thumbnail": "assets/certificate-01-clean.svg",
       "width": 1653,
-      "height": 2309
+      "height": 2309,
+      "trimEdges": [
+        4,
+        4,
+        4,
+        32
+      ],
+      "displayImage": "assets/certificate-01-clean.svg"
     },
     {
       "kind": "certificate",
@@ -178,9 +297,16 @@
       "stem": "certificate-02",
       "title": "Стемалит",
       "image": "assets/certificate-02.jpg",
-      "thumbnail": "assets/certificate-02-thumb.webp",
+      "thumbnail": "assets/certificate-02-clean.svg",
       "width": 1653,
-      "height": 2303
+      "height": 2303,
+      "trimEdges": [
+        4,
+        4,
+        4,
+        32
+      ],
+      "displayImage": "assets/certificate-02-clean.svg"
     },
     {
       "kind": "certificate",
@@ -188,9 +314,16 @@
       "stem": "certificate-03",
       "title": "Стеклопакеты",
       "image": "assets/certificate-03.jpg",
-      "thumbnail": "assets/certificate-03-thumb.webp",
+      "thumbnail": "assets/certificate-03-clean.svg",
       "width": 1653,
-      "height": 2330
+      "height": 2330,
+      "trimEdges": [
+        4,
+        4,
+        4,
+        30
+      ],
+      "displayImage": "assets/certificate-03-clean.svg"
     },
     {
       "kind": "certificate",
@@ -198,9 +331,16 @@
       "stem": "certificate-04",
       "title": "Триплекс",
       "image": "assets/certificate-04.jpg",
-      "thumbnail": "assets/certificate-04-thumb.webp",
+      "thumbnail": "assets/certificate-04-clean.svg",
       "width": 1653,
-      "height": 2324
+      "height": 2324,
+      "trimEdges": [
+        10,
+        12,
+        22,
+        12
+      ],
+      "displayImage": "assets/certificate-04-clean.svg"
     },
     {
       "kind": "certificate",
@@ -208,9 +348,16 @@
       "stem": "certificate-05",
       "title": "Декларация о соответствии — стеклопакеты",
       "image": "assets/certificate-05.jpg",
-      "thumbnail": "assets/certificate-05-thumb.webp",
+      "thumbnail": "assets/certificate-05-clean.svg",
       "width": 1653,
-      "height": 2330
+      "height": 2330,
+      "trimEdges": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "displayImage": "assets/certificate-05-clean.svg"
     }
   ]
 }
