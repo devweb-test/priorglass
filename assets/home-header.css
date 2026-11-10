@@ -3,7 +3,7 @@ html{scroll-padding-top:185px}
 .header-v4{background:#fff;border-bottom:0;box-shadow:0 4px 24px #0a59720a}
 .header-v4{--navigation-height:55px;transition:background .22s,box-shadow .22s,backdrop-filter .22s}
 @supports ((backdrop-filter:blur(1px)) or (-webkit-backdrop-filter:blur(1px))){
- .header-v4.is-scrolled{background:linear-gradient(to bottom,transparent 0 var(--navigation-height),rgba(255,255,255,.92) var(--navigation-height) 100%);-webkit-backdrop-filter:blur(16px) saturate(135%);backdrop-filter:blur(16px) saturate(135%);box-shadow:0 8px 28px #064b6518}
+ .header-v4.is-scrolled{background:linear-gradient(to bottom,transparent 0 var(--navigation-height),rgba(255,255,255,.92) var(--navigation-height) 100%);-webkit-backdrop-filter:blur(16px) saturate(135%);backdrop-filter:blur(16px) saturate(135%);box-shadow:0 8px 28px #33c4e524}
  .header-v4.is-scrolled .header-navigation{background:linear-gradient(100deg,rgba(7,90,114,.9),rgba(9,133,160,.9))}
  .header-v4.is-scrolled .nav-dropdown{background:rgba(255,255,255,.96);-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px)}
 }
@@ -16,6 +16,8 @@ html{scroll-padding-top:185px}
 .header-navigation .nav-level-0>.nav-item>.nav-row>.submenu-toggle{color:#c1f0f7;min-height:35px}
 .header-navigation .nav-level-0>.nav-item:hover>.nav-row,.header-navigation .nav-level-0>.nav-item>.nav-row:focus-within{background:#ffffff14}
 .header-navigation .nav-level-0>.nav-item>.nav-row>.submenu-toggle:hover{background:#ffffff17}
+.header-navigation .nav-level-0>.nav-item>.nav-row>.nav-category.submenu-toggle{background:transparent}
+.header-navigation .nav-level-0>.nav-item>.nav-row>.nav-category.submenu-toggle:hover{background:transparent}
 .header-navigation .nav-level-0>.nav-item.is-open>.nav-row>a,.header-navigation .nav-level-0>.nav-item.is-open>.nav-row>.nav-category{color:#cbf3ac}
 .header-navigation .nav-level-0>.nav-item>.nav-row>a:after{background:#b0e383;bottom:-9px}
 .header-navigation .nav-dropdown{left:0;border-top:3px solid #79b34e}

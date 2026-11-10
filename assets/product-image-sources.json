@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "glass",
+    "prompt": "Use case: product-mockup. Asset type: homepage glass product category image, landscape 3:2 around 1536x1024. A refined commercial product photograph of three large architectural glass panels upright in a staggered arrangement: one perfectly clear sheet, one softly frosted sheet and one pale blue-gray tinted sheet. Clearly defined polished green-blue edges, realistic transparency and gentle reflections, no supporting frames. A clean light blue-gray studio surface and background, precise high-end material detail. Coherent series for a premium Russian glass manufacturer: bright neutral daylight, subtle cyan and dark teal reflections, elegant clean composition, subject centered with 10 percent breathing room for responsive cover crops, realistic high resolution photographic finish. No people, no text, no labels, no logos, no watermark, no borders or collage. This is an illustrative product photograph, not a specific completed customer project.",
+    "file": "assets/product-glass-generated.webp",
+    "kind": "AI-generated product illustration",
+    "tool": "image_gen.imagegen (built-in)",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 78140
+  },
+  {
+    "slug": "insulated",
+    "prompt": "Use case: product-mockup. Asset type: homepage glass product category image, landscape 3:2 around 1536x1024. A refined commercial product photograph of an insulated glass unit standing upright at a three-quarter angle: two parallel clear glass panes separated by a visible dark charcoal spacer at the perimeter, an accurate enclosed air gap, subtle teal green glass edges. Show the whole rectangular glass unit as the primary subject, neatly isolated against a clean light blue-gray studio surface and background. Physically plausible construction and natural reflections, not an exploded diagram. Coherent series for a premium Russian glass manufacturer: bright neutral daylight, subtle cyan and dark teal reflections, elegant clean composition, subject centered with 10 percent breathing room for responsive cover crops, realistic high resolution photographic finish. No people, no text, no labels, no logos, no watermark, no borders or collage. This is an illustrative product photograph, not a specific completed customer project.",
+    "file": "assets/product-insulated-generated.webp",
+    "kind": "AI-generated product illustration",
+    "tool": "image_gen.imagegen (built-in)",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 78694
+  },
+  {
+    "slug": "triplex",
+    "prompt": "Use case: product-mockup. Asset type: homepage glass product category image, landscape 3:2 around 1536x1024. A refined commercial product photograph of a thick laminated architectural safety glass sample standing diagonally upright at a three-quarter angle, a close view of the exposed polished edge showing two layers of clear glass with a thin transparent bonding interlayer. A small section near one corner has fine radial cracks contained in the same intact sheet, demonstrating retained fragments. The sample is complete and held in place, not falling shards. Clean light blue-gray studio surface and background, precise glass detail. Coherent series for a premium Russian glass manufacturer: bright neutral daylight, subtle cyan and dark teal reflections, elegant clean composition, subject centered with 10 percent breathing room for responsive cover crops, realistic high resolution photographic finish. No people, no text, no labels, no logos, no watermark, no borders or collage. This is an illustrative product photograph, not a specific completed customer project.",
+    "file": "assets/product-triplex-generated.webp",
+    "kind": "AI-generated product illustration",
+    "tool": "image_gen.imagegen (built-in)",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 95332
+  }
+]

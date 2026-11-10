@@ -24,4 +24,15 @@ for document in manifest['documents']:
         '</svg>\n'
     )
     (ROOT / document['displayImage']).write_text(svg)
+    if 'previewTrimEdges' in document:
+        # A compact preview can omit blank paper; the enlarged scan stays complete.
+        x, y, right, bottom = document['previewTrimEdges']
+        preview_width, preview_height = width - x - right, height - y - bottom
+        assert preview_width > 0 and preview_height > 0
+        preview = svg.replace(
+            f'width="{display_width}" height="{display_height}" viewBox="{left} {top} {display_width} {display_height}"',
+            f'width="{preview_width}" height="{preview_height}" viewBox="{x} {y} {preview_width} {preview_height}"',
+            1,
+        )
+        (ROOT / document['thumbnail']).write_text(preview)
 print(f"Prepared {len(manifest['documents'])} scans; original JPEG bytes preserved.")

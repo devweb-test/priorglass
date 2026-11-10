@@ -6,7 +6,7 @@
       "kind": "review",
       "url": "https://priorglass.ru/wp-content/uploads/2021/11/MS_ofispro.jpg",
       "stem": "review-letter-01",
-      "title": "Благодарственное письмо",
+      "title": "МС-ОфисПро",
       "image": "assets/review-letter-01.jpg",
       "thumbnail": "assets/review-letter-01-clean.svg",
       "width": 700,
@@ -17,13 +17,14 @@
         2,
         2
       ],
-      "displayImage": "assets/review-letter-01-clean.svg"
+      "displayImage": "assets/review-letter-01-clean.svg",
+      "company": "МС-ОфисПро"
     },
     {
       "kind": "review",
       "url": "https://priorglass.ru/wp-content/uploads/2021/11/Pismo_v_PRIORGLASS_net.jpg",
       "stem": "review-letter-02",
-      "title": "Благодарственное письмо",
+      "title": "Светопрозрачные фасадные конструкции",
       "image": "assets/review-letter-02.jpg",
       "thumbnail": "assets/review-letter-02-clean.svg",
       "width": 700,
@@ -34,13 +35,14 @@
         3,
         3
       ],
-      "displayImage": "assets/review-letter-02-clean.svg"
+      "displayImage": "assets/review-letter-02-clean.svg",
+      "company": "Светопрозрачные фасадные конструкции"
     },
     {
       "kind": "review",
       "url": "https://priorglass.ru/wp-content/uploads/2021/11/Sovremennye_tekhnologii_net.jpg",
       "stem": "review-letter-03",
-      "title": "Благодарственное письмо",
+      "title": "Современные технологии",
       "image": "assets/review-letter-03.jpg",
       "thumbnail": "assets/review-letter-03-clean.svg",
       "width": 700,
@@ -51,13 +53,14 @@
         2,
         2
       ],
-      "displayImage": "assets/review-letter-03-clean.svg"
+      "displayImage": "assets/review-letter-03-clean.svg",
+      "company": "Современные технологии"
     },
     {
       "kind": "review",
       "url": "https://priorglass.ru/wp-content/uploads/2021/11/ZAO_ZAO_net.jpg",
       "stem": "review-letter-04",
-      "title": "Благодарственное письмо",
+      "title": "Завод автомобильного оборудования",
       "image": "assets/review-letter-04.jpg",
       "thumbnail": "assets/review-letter-04-clean.svg",
       "width": 700,
@@ -68,13 +71,14 @@
         2,
         2
       ],
-      "displayImage": "assets/review-letter-04-clean.svg"
+      "displayImage": "assets/review-letter-04-clean.svg",
+      "company": "Завод автомобильного оборудования"
     },
     {
       "kind": "review",
       "url": "https://priorglass.ru/wp-content/uploads/2021/03/angara_st.jpg",
       "stem": "review-letter-05",
-      "title": "Благодарственное письмо",
+      "title": "Ангара СТ",
       "image": "assets/review-letter-05.jpg",
       "thumbnail": "assets/review-letter-05-clean.svg",
       "width": 700,
@@ -85,13 +89,14 @@
         2,
         2
       ],
-      "displayImage": "assets/review-letter-05-clean.svg"
+      "displayImage": "assets/review-letter-05-clean.svg",
+      "company": "Ангара СТ"
     },
     {
       "kind": "review",
       "url": "https://priorglass.ru/wp-content/uploads/2021/03/kifato_mk.jpg",
       "stem": "review-letter-06",
-      "title": "Благодарственное письмо",
+      "title": "КИФАТО МК",
       "image": "assets/review-letter-06.jpg",
       "thumbnail": "assets/review-letter-06-clean.svg",
       "width": 700,
@@ -102,13 +107,14 @@
         2,
         2
       ],
-      "displayImage": "assets/review-letter-06-clean.svg"
+      "displayImage": "assets/review-letter-06-clean.svg",
+      "company": "КИФАТО МК"
     },
     {
       "kind": "review",
       "url": "https://priorglass.ru/wp-content/uploads/2021/03/mediavyveska.jpg",
       "stem": "review-letter-07",
-      "title": "Благодарственное письмо",
+      "title": "Медиавывеска",
       "image": "assets/review-letter-07.jpg",
       "thumbnail": "assets/review-letter-07-clean.svg",
       "width": 700,
@@ -119,13 +125,14 @@
         2,
         2
       ],
-      "displayImage": "assets/review-letter-07-clean.svg"
+      "displayImage": "assets/review-letter-07-clean.svg",
+      "company": "Медиавывеска"
     },
     {
       "kind": "review",
       "url": "https://priorglass.ru/wp-content/uploads/2021/03/minsroy.jpg",
       "stem": "review-letter-08",
-      "title": "Благодарственное письмо",
+      "title": "Дирекция заказчика капстроительства МО",
       "image": "assets/review-letter-08.jpg",
       "thumbnail": "assets/review-letter-08-clean.svg",
       "width": 700,
@@ -136,13 +143,14 @@
         2,
         2
       ],
-      "displayImage": "assets/review-letter-08-clean.svg"
+      "displayImage": "assets/review-letter-08-clean.svg",
+      "company": "Дирекция заказчика капстроительства МО"
     },
     {
       "kind": "review",
       "url": "https://priorglass.ru/wp-content/uploads/2021/03/online_trade.jpg",
       "stem": "review-letter-09",
-      "title": "Благодарственное письмо",
+      "title": "ОНЛАЙН ТРЕЙД",
       "image": "assets/review-letter-09.jpg",
       "thumbnail": "assets/review-letter-09-clean.svg",
       "width": 700,
@@ -153,13 +161,14 @@
         2,
         2
       ],
-      "displayImage": "assets/review-letter-09-clean.svg"
+      "displayImage": "assets/review-letter-09-clean.svg",
+      "company": "ОНЛАЙН ТРЕЙД"
     },
     {
       "kind": "review",
       "url": "https://priorglass.ru/wp-content/uploads/2021/03/petromarket.jpg",
       "stem": "review-letter-10",
-      "title": "Благодарственное письмо",
+      "title": "Петромаркет",
       "image": "assets/review-letter-10.jpg",
       "thumbnail": "assets/review-letter-10-clean.svg",
       "width": 700,
@@ -170,13 +179,14 @@
         2,
         2
       ],
-      "displayImage": "assets/review-letter-10-clean.svg"
+      "displayImage": "assets/review-letter-10-clean.svg",
+      "company": "Петромаркет"
     },
     {
       "kind": "review",
       "url": "https://priorglass.ru/wp-content/uploads/2021/03/proffsad.jpg",
       "stem": "review-letter-11",
-      "title": "Благодарственное письмо",
+      "title": "Проффасад",
       "image": "assets/review-letter-11.jpg",
       "thumbnail": "assets/review-letter-11-clean.svg",
       "width": 700,
@@ -187,13 +197,14 @@
         2,
         2
       ],
-      "displayImage": "assets/review-letter-11-clean.svg"
+      "displayImage": "assets/review-letter-11-clean.svg",
+      "company": "Проффасад"
     },
     {
       "kind": "review",
       "url": "https://priorglass.ru/wp-content/uploads/2021/03/reutov.jpg",
       "stem": "review-letter-12",
-      "title": "Благодарственное письмо",
+      "title": "Администрация городского округа Реутов",
       "image": "assets/review-letter-12.jpg",
       "thumbnail": "assets/review-letter-12-clean.svg",
       "width": 700,
@@ -204,13 +215,14 @@
         2,
         2
       ],
-      "displayImage": "assets/review-letter-12-clean.svg"
+      "displayImage": "assets/review-letter-12-clean.svg",
+      "company": "Администрация городского округа Реутов"
     },
     {
       "kind": "review",
       "url": "https://priorglass.ru/wp-content/uploads/2021/03/sky-engineering.jpg",
       "stem": "review-letter-13",
-      "title": "Благодарственное письмо",
+      "title": "Скай-Инжиниринг",
       "image": "assets/review-letter-13.jpg",
       "thumbnail": "assets/review-letter-13-clean.svg",
       "width": 700,
@@ -221,13 +233,14 @@
         2,
         2
       ],
-      "displayImage": "assets/review-letter-13-clean.svg"
+      "displayImage": "assets/review-letter-13-clean.svg",
+      "company": "Скай-Инжиниринг"
     },
     {
       "kind": "review",
       "url": "https://priorglass.ru/wp-content/uploads/2021/03/stokmann.jpg",
       "stem": "review-letter-14",
-      "title": "Благодарственное письмо",
+      "title": "Стокманн",
       "image": "assets/review-letter-14.jpg",
       "thumbnail": "assets/review-letter-14-clean.svg",
       "width": 700,
@@ -238,13 +251,14 @@
         2,
         2
       ],
-      "displayImage": "assets/review-letter-14-clean.svg"
+      "displayImage": "assets/review-letter-14-clean.svg",
+      "company": "Стокманн"
     },
     {
       "kind": "review",
       "url": "https://priorglass.ru/wp-content/uploads/2021/03/sultanov.jpg",
       "stem": "review-letter-15",
-      "title": "Благодарственное письмо",
+      "title": "ГМИИ имени А. С. Пушкина",
       "image": "assets/review-letter-15.jpg",
       "thumbnail": "assets/review-letter-15-clean.svg",
       "width": 700,
@@ -255,13 +269,14 @@
         2,
         2
       ],
-      "displayImage": "assets/review-letter-15-clean.svg"
+      "displayImage": "assets/review-letter-15-clean.svg",
+      "company": "ГМИИ имени А. С. Пушкина"
     },
     {
       "kind": "review",
       "url": "https://priorglass.ru/wp-content/uploads/2021/03/terra_dok.jpg",
       "stem": "review-letter-16",
-      "title": "Благодарственное письмо",
+      "title": "ТЕРРА ДОК",
       "image": "assets/review-letter-16.jpg",
       "thumbnail": "assets/review-letter-16-clean.svg",
       "width": 700,
@@ -272,7 +287,8 @@
         2,
         2
       ],
-      "displayImage": "assets/review-letter-16-clean.svg"
+      "displayImage": "assets/review-letter-16-clean.svg",
+      "company": "ТЕРРА ДОК"
     },
     {
       "kind": "certificate",
@@ -289,7 +305,10 @@
         4,
         32
       ],
-      "displayImage": "assets/certificate-01-clean.svg"
+      "displayImage": "assets/certificate-01-clean.svg",
+      "documentType": "Сертификат соответствия",
+      "description": "Безопасное закалённое стекло для строительства.",
+      "validUntil": "14.07.2029"
     },
     {
       "kind": "certificate",
@@ -306,7 +325,10 @@
         4,
         32
       ],
-      "displayImage": "assets/certificate-02-clean.svg"
+      "displayImage": "assets/certificate-02-clean.svg",
+      "documentType": "Сертификат соответствия",
+      "description": "Закалённое эмалированное стекло — Стемалит.",
+      "validUntil": "14.07.2029"
     },
     {
       "kind": "certificate",
@@ -323,7 +345,10 @@
         4,
         30
       ],
-      "displayImage": "assets/certificate-03-clean.svg"
+      "displayImage": "assets/certificate-03-clean.svg",
+      "documentType": "Сертификат соответствия",
+      "description": "Клееные строительные стеклопакеты.",
+      "validUntil": "14.07.2029"
     },
     {
       "kind": "certificate",
@@ -340,7 +365,10 @@
         22,
         12
       ],
-      "displayImage": "assets/certificate-04-clean.svg"
+      "displayImage": "assets/certificate-04-clean.svg",
+      "documentType": "Сертификат соответствия",
+      "description": "Многослойное стекло с плёнкой EVA.",
+      "validUntil": "21.09.2031"
     },
     {
       "kind": "certificate",
@@ -348,7 +376,7 @@
       "stem": "certificate-05",
       "title": "Декларация о соответствии — стеклопакеты",
       "image": "assets/certificate-05.jpg",
-      "thumbnail": "assets/certificate-05-clean.svg",
+      "thumbnail": "assets/certificate-05-preview.svg",
       "width": 1653,
       "height": 2330,
       "trimEdges": [
@@ -357,7 +385,16 @@
         2,
         2
       ],
-      "displayImage": "assets/certificate-05-clean.svg"
+      "displayImage": "assets/certificate-05-clean.svg",
+      "documentType": "Декларация о соответствии",
+      "description": "Клееные стеклопакеты для зданий и сооружений.",
+      "validUntil": "13.07.2029",
+      "previewTrimEdges": [
+        2,
+        2,
+        2,
+        430
+      ]
     }
   ]
 }
