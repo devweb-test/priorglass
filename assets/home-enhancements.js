@@ -88,16 +88,11 @@
     const cards = [...track.querySelectorAll('.document-card')];
     const buttons = [...slider.querySelectorAll('[data-document-scroll]')];
     const controls = slider.querySelector('.document-controls');
-    const position = slider.querySelector('.document-position');
     const step = () => cards[0].getBoundingClientRect().width + (parseFloat(getComputedStyle(track).gap) || 0);
     const update = () => {
       controls.hidden = track.scrollWidth <= track.clientWidth + 3;
       buttons[0].disabled = track.scrollLeft <= 2;
       buttons[1].disabled = track.scrollLeft + track.clientWidth >= track.scrollWidth - 3;
-      const visible = Math.max(1, Math.round(track.clientWidth / step()));
-      const first = Math.max(0, Math.round(track.scrollLeft / step()));
-      const end = Math.min(cards.length, first + visible);
-      position.textContent = `${first + 1}${end > first + 1 ? '–' + end : ''} / ${cards.length}`;
     };
     const move = direction => track.scrollBy({left: direction * step(), behavior: behavior()});
     buttons.forEach(button => button.addEventListener('click', () => move(Number(button.dataset.documentScroll))));
@@ -120,7 +115,6 @@
   const viewerTitle = document.getElementById('document-viewer-title');
   const stage = viewer.querySelector('.viewer-stage');
   const zoom = viewer.querySelector('.viewer-zoom');
-  const counter = viewer.querySelector('.viewer-counter');
   const error = viewer.querySelector('.viewer-error');
   const galleries = new Map();
   let current = [];
@@ -157,7 +151,6 @@
     viewerTitle.textContent = title;
     viewerImage.alt = title;
     viewerImage.src = link.href;
-    counter.textContent = `${index + 1} / ${current.length}`;
   };
   viewerImage.addEventListener('load', () => {
     stage.style.setProperty('--zoom-width', `${Math.max(viewerImage.naturalWidth, stage.clientWidth * 1.4)}px`);
