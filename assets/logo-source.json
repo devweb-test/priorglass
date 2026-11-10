@@ -1,8 +1,11 @@
 {
   "file": "assets/priorglass-logo.svg",
-  "concept": "Three stepped glass panels and the Cyrillic PRIORGLASS wordmark",
-  "font": "Manrope Bold, same as homepage headings",
+  "source": "https://priorglass.ru/",
+  "source_asset": "assets/logo-00e637b1d21a.png",
+  "original_mark_reference": "ced4c12:assets/priorglass-logo.svg",
+  "preserved": "Original stepped mark integrated with the first letter, positions, colors, bold/light wordmark split and 253×40 proportions",
+  "updated": "Wordmark typeface only: Manrope Bold for ПРИОР and Manrope Regular for ГЛАСС",
   "format": "SVG paths; no embedded bitmap or font dependency",
-  "width": 270,
-  "height": 44
+  "width": 253,
+  "height": 40
 }
