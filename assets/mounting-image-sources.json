@@ -1,0 +1,76 @@
+[
+  {
+    "file": "mounting-homes.webp",
+    "title": "Остекление домов",
+    "width": 1200,
+    "height": 854,
+    "source_page": "https://priorglass.ru/osteklenie-zdanij/osteklenie-domov/",
+    "kind": "source-photograph",
+    "source_image": "https://priorglass.ru/wp-content/uploads/osteklenie-domov-i-kottedzhej-1.jpg"
+  },
+  {
+    "file": "mounting-buildings.webp",
+    "title": "Остекление зданий",
+    "width": 600,
+    "height": 345,
+    "source_page": "https://priorglass.ru/osteklenie-zdanij/",
+    "kind": "source-photograph",
+    "source_image": "https://priorglass.ru/wp-content/uploads/Panoramnoe-osteklenie-sovremennogo-zdaniya-1.jpg"
+  },
+  {
+    "file": "mounting-interiors.webp",
+    "title": "Остекление помещений",
+    "width": 800,
+    "height": 600,
+    "source_page": "https://priorglass.ru/osteklenie-zdanij/osteklenie-pomeshhenij/",
+    "kind": "source-photograph",
+    "source_image": "https://priorglass.ru/wp-content/uploads/peregorodki-dlya-garderobnoj3.jpg"
+  },
+  {
+    "file": "mounting-shops.webp",
+    "title": "Остекление магазинов",
+    "width": 800,
+    "height": 600,
+    "source_page": "https://priorglass.ru/osteklenie-zdanij/osteklenie-magazinov/",
+    "kind": "source-photograph",
+    "source_image": "https://priorglass.ru/wp-content/uploads/osteklenie_magazinov_3.png"
+  },
+  {
+    "file": "mounting-elevators.webp",
+    "title": "Остекление лифтовых шахт",
+    "width": 800,
+    "height": 533,
+    "source_page": "https://priorglass.ru/osteklenie-zdanij/osteklenie-liftovykh-shakht/",
+    "kind": "source-photograph",
+    "source_image": "https://priorglass.ru/wp-content/uploads/2021/05/modern-elevator.jpg"
+  },
+  {
+    "file": "mounting-verandas.webp",
+    "title": "Остекление веранд",
+    "width": 1536,
+    "height": 1024,
+    "source_page": "https://priorglass.ru/bezramnoe-osteklenie/bezramnoe-osteklenie-verandy/",
+    "kind": "generated-illustration",
+    "tool": "image_gen.imagegen (built-in)",
+    "prompt": "Create one photorealistic landscape architectural photograph, 3:2 composition, for a glass company's website card about glazing verandas. A modern covered veranda attached to a residential house, fully enclosed with clear frameless sliding glass panels, slim charcoal roof frame and timber decking, small landscaped garden. Three-quarter exterior view showing the whole veranda, natural bright daylight, gentle blue sky reflections on glass, realistic transparent glass and coherent construction details, straight architectural verticals. Professional architectural photography, very sharp details. No people, lettering, logos or watermarks. This is an illustrative architecture image, not a documented company project."
+  },
+  {
+    "file": "mounting-winter-gardens.webp",
+    "title": "Остекление зимних садов",
+    "width": 800,
+    "height": 500,
+    "source_page": "https://priorglass.ru/zimnie-sady/",
+    "kind": "source-photograph",
+    "source_image": "https://priorglass.ru/wp-content/uploads/Alyuminievyy-zimniy-sad1.png"
+  },
+  {
+    "file": "mounting-pavilions.webp",
+    "title": "Остекление павильонов",
+    "width": 1536,
+    "height": 1024,
+    "source_page": "https://priorglass.ru/stat-i/steklyannye-pavilony/",
+    "kind": "generated-illustration",
+    "tool": "image_gen.imagegen (built-in)",
+    "prompt": "Create one photorealistic landscape architectural photograph, 3:2 composition, for a glass company's website card about glazing pavilions. A contemporary freestanding rectangular glass pavilion in a landscaped urban courtyard, floor-to-ceiling clear glass walls with thin charcoal metal profiles, flat slim roof, glass double entrance doors, understated empty interior. Three-quarter exterior view showing both glass facades and the entire pavilion, natural bright daylight, neutral materials, subtle blue sky and trees reflected on transparent glass, realistic coherent construction details and straight architectural verticals. Professional architectural photography with very sharp details. No people, text, logos, colorful branding or watermarks. This is an illustrative architecture image, not a documented company project."
+  }
+]
