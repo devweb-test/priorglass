@@ -1,0 +1,10 @@
+{
+  "source_asset": "assets/izgotovlenie-steklopaketov-1-b7abdc0bfb8b.jpg",
+  "file": "assets/factory-glass-production-hd.webp",
+  "kind": "AI-enhanced source photograph",
+  "tool": "image_gen.imagegen (built-in)",
+  "prompt": "Edit the provided existing photograph of a glass factory workshop into a cleaner, higher-resolution professional industrial photograph for a company website. Preserve the same scene and recognizable physical equipment: the yellow overhead crane and large rectangular yellow vacuum lifting frame holding a very large vertical transparent glass sheet, the bright ceiling lights and factory beams, the gray concrete workshop floor, the existing machinery and layout behind the glass. Keep the machine geometry, scale, positioning, original yellow/gray colors and realistic reflections; do not substitute another machine or invent technical features. Improve the photographic quality with crisp straight edges, fine material details, balanced brighter natural factory lighting and accurate color. Remove muddy blur, compression artifacts and color cast. Output a landscape 4:3 composition at high resolution around 1600x1200 or larger, with the complete central yellow lifting frame and glass sheet clearly visible and some breathing room for responsive cropping. This is a photographic enhancement and cleanup of the source image, not a redesign of the factory. No added people, no logos, captions, borders, watermark or graphic overlays.",
+  "width": 1448,
+  "height": 1086,
+  "bytes": 294172
+}

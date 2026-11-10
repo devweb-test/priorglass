@@ -26,6 +26,8 @@
 .portal-grid>div>span{font-size:15px;line-height:1.65;max-width:290px;color:var(--ink)}
 .process-steps .process-icon{display:block;width:66px;height:66px;object-fit:contain;object-position:left center;margin-bottom:20px}
 .process-steps p{margin-top:0}
+.process-tabs #tab-1[aria-selected=true]{background:#79b34e;color:#123923}
+.process-tabs #tab-1[aria-selected=true]:hover{background:#91c867;color:#123923}
 .clients-section>.clients-grid{row-gap:23px}
 .client-logo{border:1px solid #edf4f8;transition:box-shadow .2s,transform .2s}
 .client-logo:hover{transform:translateY(-3px);box-shadow:0 8px 20px #12627c0c}
