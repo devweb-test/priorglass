@@ -85,23 +85,26 @@
 .equipment-section{background:#fff}
 .equipment-section .section-head{align-items:flex-end}
 .equipment-section .section-aside{max-width:440px}
-.equipment-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:25px}
-.equipment-card{display:flex;flex-direction:column;min-width:0;padding:0;background:#eefaff;border:0;border-radius:24px;overflow:hidden}
-.equipment-card:nth-child(3n+2){background:#f0f7e9}
-.equipment-photo{position:relative;aspect-ratio:16/10;overflow:hidden;border-radius:24px 24px 0 0;background:#fff;padding:0}
-.equipment-photo>img{position:absolute;inset:0;width:100%;height:100%;min-height:0;object-fit:cover;transition:transform .45s}
-.equipment-card:hover .equipment-photo>img{transform:scale(1.035)}
-.equipment-copy{display:flex;flex-direction:column;align-items:flex-start;flex:1;padding:26px}
-.equipment-copy h3{font-size:25px;line-height:1.3;letter-spacing:-.7px;color:var(--ink);max-width:360px}
-.equipment-copy p{font-size:15px;line-height:1.8;margin-top:14px;margin-bottom:22px}
+.equipment-grid,.product-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:25px}
+.equipment-card,.product-card{display:flex;flex-direction:column;min-width:0;padding:0;background:#eefaff;border:0;border-radius:24px;overflow:hidden}
+.equipment-card:nth-child(3n+2),.product-card:nth-child(3n+2){background:#f0f7e9}
+.product-card{gap:0;align-items:stretch}
+.product-card:nth-child(3){background:#eefaff}
+.product-card:hover{transform:none;box-shadow:none}
+.equipment-photo,.product-image{position:relative;height:auto;aspect-ratio:16/10;overflow:hidden;border-radius:24px 24px 0 0;background:#fff;padding:0}
+.equipment-photo>img,.product-image>img{position:absolute;inset:0;width:100%;height:100%;min-height:0;object-fit:cover;transition:transform .45s}
+.equipment-card:hover .equipment-photo>img,.product-card:hover .product-image>img{transform:scale(1.035)}
+.equipment-copy,.card-caption{display:flex;flex-direction:column;align-items:flex-start;flex:1;padding:26px}
+.equipment-copy h3,.card-caption h3{font-size:25px;line-height:1.3;letter-spacing:-.7px;color:var(--ink);max-width:360px}
+.equipment-copy p,.card-caption p{font-size:15px;line-height:1.8;margin-top:14px;margin-bottom:22px}
 .equipment-fact{display:inline-block;margin-top:auto;padding:7px 12px;border:0;border-radius:9px;font-size:12px;font-weight:700;line-height:1.6;color:#096c84;background:#ffffffd6}
 .equipment-bottom{display:flex;align-items:center;justify-content:space-between;gap:30px;margin-top:30px;padding-top:25px;border-top:1px solid var(--line)}
 .equipment-bottom>p{font-size:14px;line-height:1.8}
 .equipment-bottom>.text-link{white-space:nowrap}
-@media(max-width:1100px){.equipment-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:22px}.equipment-copy h3{font-size:24px}}
-@media(max-width:760px){.equipment-section .section-head{display:block}.equipment-section .section-aside{margin-top:22px;max-width:500px}.equipment-grid{gap:18px}.equipment-photo{padding:0}.equipment-copy{padding:22px}.equipment-copy h3{font-size:21px}.equipment-copy p{font-size:14px}.equipment-fact{font-size:11px;padding:7px 10px}.equipment-bottom{align-items:flex-start;flex-direction:column;gap:16px;margin-top:25px;padding-top:22px}.equipment-bottom>p{font-size:13px}}
-@media(max-width:600px){.equipment-grid{grid-template-columns:minmax(0,1fr);gap:22px}.equipment-card{padding:10px;border-radius:21px}.equipment-photo{border-radius:13px}.equipment-copy{padding:22px 12px 15px}.equipment-copy h3{font-size:25px}.equipment-copy p{font-size:15px;margin-top:12px;margin-bottom:19px}.equipment-fact{font-size:12px}}
-@media(max-width:360px){.equipment-copy{padding:19px 8px 12px}.equipment-copy h3{font-size:23px}.equipment-copy p{font-size:14px}.equipment-fact{font-size:11px}}
+@media(max-width:1100px){.equipment-grid,.product-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:22px}.equipment-copy h3,.card-caption h3{font-size:24px}}
+@media(max-width:760px){.equipment-section .section-head{display:block}.equipment-section .section-aside{margin-top:22px;max-width:500px}.equipment-grid,.product-grid{gap:18px}.equipment-photo,.product-image{padding:0}.equipment-copy,.card-caption{padding:22px}.equipment-copy h3,.card-caption h3{font-size:21px}.equipment-copy p,.card-caption p{font-size:14px}.equipment-fact{font-size:11px;padding:7px 10px}.equipment-bottom{align-items:flex-start;flex-direction:column;gap:16px;margin-top:25px;padding-top:22px}.equipment-bottom>p{font-size:13px}}
+@media(max-width:600px){.equipment-grid,.product-grid{grid-template-columns:minmax(0,1fr);gap:22px}.equipment-card,.product-card{padding:10px;border-radius:21px}.equipment-photo,.product-image{border-radius:13px}.equipment-copy,.card-caption{padding:22px 12px 15px}.equipment-copy h3,.card-caption h3{font-size:25px}.equipment-copy p,.card-caption p{font-size:15px;margin-top:12px;margin-bottom:19px}.equipment-fact{font-size:12px}}
+@media(max-width:360px){.equipment-copy,.card-caption{padding:19px 8px 12px}.equipment-copy h3,.card-caption h3{font-size:23px}.equipment-copy p,.card-caption p{font-size:14px}.equipment-fact{font-size:11px}}
 .floating-calculator{position:fixed;right:0;top:46%;z-index:40;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;width:92px;min-height:125px;padding:17px 10px;border:0;border-radius:18px 0 0 18px;background:#0788a5;color:#fff;box-shadow:-5px 8px 25px #07526c25;font-size:12px;line-height:1.5;font-weight:600;transition:background .2s,width .2s,box-shadow .2s}
 .floating-calculator>.icon{width:33px;height:33px;color:#c6f2a9}
 .floating-calculator:hover{background:#066b86;width:102px;box-shadow:-7px 10px 30px #07526c38}
@@ -198,8 +201,8 @@
 .document-validity{display:block;margin-top:12px;font-size:11px;line-height:1.5;color:#587985}
 #certificates .document-caption>.icon{margin-top:3px}
 .thickness a{border:0}
-#products .product-image{height:auto;aspect-ratio:3/2}
-#products .product-image>img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;padding:0}
+#products .product-image{height:auto;aspect-ratio:16/10}
+#products .product-image>img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center;padding:0}
 .projects-track{scrollbar-width:none}
 .projects-track::-webkit-scrollbar{display:none}
 /* The photograph fades into the service section on every edge. */
