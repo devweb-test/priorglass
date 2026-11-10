@@ -1,0 +1,56 @@
+[
+  {
+    "file": "equipment-keraglass.webp",
+    "title": "Печь закалки KERAGLASS",
+    "source_page": "https://priorglass.ru/zakalennoe-steklo/",
+    "source_image": "https://priorglass.ru/wp-content/themes/priorglass/tempered-glass/assets/equipment-keraglass.png",
+    "width": 700,
+    "height": 525,
+    "bytes": 78696
+  },
+  {
+    "file": "equipment-cutting.webp",
+    "title": "Автоматические столы резки",
+    "source_page": "https://priorglass.ru/zakalennoe-steklo/",
+    "source_image": "https://priorglass.ru/wp-content/themes/priorglass/tempered-glass/assets/equipment-bavelloni.jpg",
+    "width": 700,
+    "height": 525,
+    "bytes": 94232
+  },
+  {
+    "file": "equipment-intermac.webp",
+    "title": "Обрабатывающий центр INTERMAC",
+    "source_page": "https://priorglass.ru/zakalennoe-steklo/",
+    "source_image": "https://priorglass.ru/wp-content/themes/priorglass/tempered-glass/assets/equipment-intermac.jpg",
+    "width": 700,
+    "height": 363,
+    "bytes": 19664
+  },
+  {
+    "file": "equipment-glazing-line.webp",
+    "title": "Линия сборки стеклопакетов",
+    "source_page": "https://priorglass.ru/o-nas/proizvodstvo/",
+    "source_image": "https://priorglass.ru/wp-content/uploads/2026/03/steklopaketnaya-liniya-1.png",
+    "width": 700,
+    "height": 467,
+    "bytes": 43192
+  },
+  {
+    "file": "equipment-edging.webp",
+    "title": "Станок обработки кромки",
+    "source_page": "https://priorglass.ru/o-nas/proizvodstvo/",
+    "source_image": "https://priorglass.ru/wp-content/uploads/Kromochnik-Bavelloni-e1454254063163.jpg",
+    "width": 700,
+    "height": 342,
+    "bytes": 23962
+  },
+  {
+    "file": "equipment-triplex.webp",
+    "title": "Печь для триплекса",
+    "source_page": "https://priorglass.ru/o-nas/proizvodstvo/",
+    "source_image": "https://priorglass.ru/wp-content/uploads/2026/03/pech-tripleksacii-novaya.png",
+    "width": 700,
+    "height": 306,
+    "bytes": 32758
+  }
+]
